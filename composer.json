@@ -1,0 +1,21 @@
+{
+    "name": "qq2236639958/api",
+    "description": "php viptv api",
+    "type": "library",
+    "license": "MiT",
+    "authors": [
+        {
+            "name": "qq2236639958",
+            "email": "2236639958@qq.com"
+        }
+    ],
+    
+    "require": {
+		"php": ">=5.5"
+    },
+    "autoload": {
+		"psr-4": {
+		  "qq223639958\\api\\": "src/"
+		}
+    }
+}
