@@ -22,7 +22,12 @@
 		"ext-openssl": "*"
 	},
 	"autoload": {
-		"psr-4": "Api\\": "src/"
+		"psr-4": {
+			"Api\\": "src/"
+		},
+		"psr-0": {
+			"": "extend/"
+		}
 
 	}
 }
