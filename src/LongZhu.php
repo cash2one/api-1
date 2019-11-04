@@ -2,7 +2,7 @@
 /*
  * echo json_encode(LongZhu::parse($url));
  */
-namespace Api;
+namespace api;
 
 class LongZhu
 {

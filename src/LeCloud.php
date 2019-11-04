@@ -2,7 +2,7 @@
 /*
  * echo json_encode(LeCloud::parse($url));
  */
-namespace Api;
+namespace api;
 
 class LeCloud
 {

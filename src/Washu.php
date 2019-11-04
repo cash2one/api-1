@@ -2,7 +2,7 @@
 /*
  * echo str_replace("\/","/",json_encode(Wasu::parse($url)));
  */
-namespace ZhiBo;
+namespace api;
 
 class Wasu
 {

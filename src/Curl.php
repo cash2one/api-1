@@ -1,6 +1,6 @@
 <?php
 
-namespace Api;
+namespace api;
 
 use ext\Org\ArrayUtil;
 use ext\Org\Decoder;

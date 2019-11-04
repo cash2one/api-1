@@ -4,7 +4,7 @@
  * $data = Mgtv::get_PC_B_video($ids);
  * echo json_encode($data);
  */
-namespace Api;
+namespace api;
 
 class Mgtv
 {

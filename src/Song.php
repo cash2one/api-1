@@ -1,8 +1,8 @@
 <?php
 
-namespace Api;
+namespace api;
 
-use ext\Org\Curl;
+use api\Curl;
 
 class MusicApp
 {

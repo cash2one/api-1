@@ -6,7 +6,7 @@
  * Time: 下午10:52
  */
 
-namespace  Api;
+namespace  api;
 
 use think\facade\App;
 use think\facade\Config;

@@ -4,7 +4,7 @@
  * $video_info = Le::parseVideoUrl($id);
  * echo json_encode($video_info);
  */
-namespace Api;
+namespace api;
 
 class Le
 {

@@ -4,7 +4,7 @@
  * $url = "http://www.yy.com/shenqu/play/id_1134094401301923854.html";
  * echo json_encode(YY::parse($url));
  */
-namespace Api;
+namespace api;
 
 class YY
 {

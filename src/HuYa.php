@@ -2,7 +2,7 @@
 /*
  * echo json_encode(HuYa::parse($url));
  */
-namespace Api;
+namespace api;
 
 class HuYa
 {

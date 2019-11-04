@@ -1,6 +1,6 @@
 <?php
 
-namespace Api;
+namespace api;
 
 class music
 {

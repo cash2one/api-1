@@ -2,7 +2,7 @@
 /*
  * echo json_encode(Yinyuetai::parse($url));
  */
-namespace Api;
+namespace api;
 
 class Yinyuetai
 {

@@ -2,7 +2,7 @@
 /*
  * echo str_replace("\/","/",json_encode(BaoFeng::parse($url)));
  */
-namespace Api;
+namespace api;
 
 class BaoFeng
 {

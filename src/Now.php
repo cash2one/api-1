@@ -2,7 +2,7 @@
 /*
  * echo json_encode(Now::parse($url));
  */
-namespace Api;
+namespace api;
 
 class Now
 {

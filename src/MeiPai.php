@@ -2,7 +2,7 @@
 /*
  * echo json_encode(MeiPai::parse($url));
  */
-namespace Api;
+namespace api;
 
 class MeiPai
 {

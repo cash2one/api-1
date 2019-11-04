@@ -6,7 +6,7 @@
  * $ids = MIGU::parse($url);
  * echo str_replace("\/", "/", json_encode(MIGU::get_vip_video_url($ids)));
  */
-namespace Api;
+namespace api;
 
 class MiGu
 {

@@ -30,7 +30,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Api\\": "src/"
+			"api\\": "src/"
 		},
 		"psr-0": {
 			"": "extend/"
