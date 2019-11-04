@@ -1,21 +1,28 @@
 {
-    "name": "vuea/api",
-    "description": "php viptv api",
-    "type": "library",
-    "license": "MiT",
-    "authors": [
-        {
-            "name": "qq2236639958",
-            "email": "2236639958@qq.com"
-        }
-    ],
-    
-    "require": {
-		"php": ">=5.5"
-    },
-    "autoload": {
-		"psr-4": {
-		  "api\\": "src/"
-		}
-    }
+	"name": "vuea/api",
+	"type": "library",
+	"description": "PHP常用接口代码",
+
+	"homepage": "https://vuea.github.io",
+	"license": "MIT",
+	"keywords": [
+		"php music",
+		"music api",
+		"lighty",
+		"lightweight"
+	],
+	"authors": [{
+		"name": "qq2236639958",
+		"email": "2236639958@qq.com",
+		"homepage": "https://vuea.github.io"
+	}],
+	"require": {
+		"php": ">=5.4.0",
+		"ext-curl": "*",
+		"ext-openssl": "*"
+	},
+	"autoload": {
+		"psr-4": "Api\\": "src/"
+
+	}
 }

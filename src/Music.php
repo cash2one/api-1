@@ -1,8 +1,8 @@
 <?php
 
-namespace qq2236639958\api;
+namespace Api;
 
-class Music
+class music
 {
     const VERSION = '1.5.7';
 
